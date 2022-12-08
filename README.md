@@ -1,1 +1,1 @@
-basic rest-api with spring boot
+Basic rest-api with spring boot
