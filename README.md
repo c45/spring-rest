@@ -1,1 +1,1 @@
-Basic rest-api with spring boot
+Spring boot REST API with few endpoints.
