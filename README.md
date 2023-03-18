@@ -1,3 +1,3 @@
-<h2>Spring REST API</h2>
+<h2>Spring Boot REST API</h2>
 
-REST API service for managing users
+REST API service for managing users in MySql database.
